@@ -1,14 +1,15 @@
 .app {
-
+  padding-top: 62px;
 }
 
-.app-header {
-  background-color: #222;
-  padding: 20px;
-  color: white;
+.app-navbar {
+  height: 62px;
 }
 
-.app-title {
+.app-logo {
   font-size: 1.5em;
-  margin: 0;
+}
+
+.app-content {
+  margin-top: 2rem;
 }
